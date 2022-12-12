@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.615aab18.css","mappings":"AAAA,QAAS,wBAAoC,CAE7C,iBAAiB,CADf,UACgB","sources":["index.css"],"sourcesContent":[".button {background-color: rgb(187, 185, 185);\r\n  width: 70px;\r\nfont-size: x-large}\r\n"],"names":[],"sourceRoot":""}
