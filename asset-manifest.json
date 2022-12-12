@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrivacyNotice/static/css/main.e6c13ad2.css",
+    "main.js": "/PrivacyNotice/static/js/main.55beacfd.js",
+    "index.html": "/PrivacyNotice/index.html",
+    "main.e6c13ad2.css.map": "/PrivacyNotice/static/css/main.e6c13ad2.css.map",
+    "main.55beacfd.js.map": "/PrivacyNotice/static/js/main.55beacfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.55beacfd.js"
+  ]
+}
