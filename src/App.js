@@ -7,7 +7,7 @@ function App() {
 
   return (
   <div>
-<Navigation></Navigation>
+
   <Router basename='/'>
       <Routes>
         <Route exact path='/PrivacyNotice' element={<English/>}></Route>
